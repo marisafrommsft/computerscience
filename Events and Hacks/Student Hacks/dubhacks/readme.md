@@ -1,4 +1,4 @@
-# HackMIT guide
+# Dubhacks guide
 
 ## JUDGING:
 
@@ -16,37 +16,36 @@ Fill out one form per team.
 
 [Google spreadsheet of teams](https://docs.google.com/spreadsheets/d/138iWdgGUtMPxQIihxRYjMnvc4r-RhEL8H95K6WA9FSg/edit#gid=395869937)
 
-## Important deets
+## Important details
 **Wear Microsoft branded gear please!** 
 
 Key times:
 
 **Saturday**
-- 8am - Meet at sponsor checkin @ white tents outside of [Kresge Auditorium](https://www.google.com/maps/place/Kresge+Auditorium/@42.3577976,-71.1011636,15z/data=!4m8!1m2!2m1!1skresge+auditorium!3m4!1s0x89e37a007a8bbfe5:0x1571262b039a43bd!8m2!3d42.3581353!4d-71.0950313)
-- 11am - Mentor orientation in Johnson Media Room
-- 11am-2pm - **Key hack time**. Students will need the most help getting up and running with Azure (and convinced to use Azure)
-- 5pm - Our tech talk (Shana will be AWOL)
+- 1pm - Get your wristband at sponsor check-in and then meet at Microsoft booth
+- 6pm Workshop (Vadim)
+- 7pm-10pm - **Key hack time**. Students will need the most help getting up and running with Azure (and convinced to use Azure)
 
 **Sunday**
 - 8am and on - **Key hack time**. Last minute hack help/Azure tech support
 - 10:30am - Expo judging (Morgan and Chander)
-- 1pm - Azure prize judging (Morgan, Chander, Jasmine)
-- 3pm - Closing ceremonies/tear down/help Shana ship stuff back
+- 4pm - Azure prize judging (PEOPLE)
+- 5pm - Closing ceremonies/tear down/help Shana ship stuff back
 
 Where:
-![](mitmap.png)
+![](mitmap.png) FIX THE MAP
  
 
 ## Contact info
-### Shana - main POC: 
-- phone: 206-434-6193
-- mail: shanama@microsoft.com
+### Marisa - main POC: 
+- phone: 703-200-4441
+- mail: mamessi@microsoft.com
 
 | Name               | Title                    |  Role at the event                            | Contact info |
 | ------------------ | ------------------------ | --------------------------------------------- | ------------ |
-| Shana Matthews     | PM student dev           | Event + Technical mentor + Technical workshop | 206-434-6193 |
-| Cristina Brendicke | PMM student dev          | Event coordination + Business mentor          | 206-303-7907 |
-| Morgan Mitchell    | PMM student dev          | Technical mentor + Azure judge + event judge  | 435-901-1928 |
+| Marisa Messina     | F ix                     | Event + Technical mentor + Technical workshop | 206-434-6193 |
+| Eunice Shin        | PM student dev           | Event coordination + Business mentor          | 206-303-7907 |
+| FIX THE REST       | PMM student dev          | Technical mentor + Azure judge + event judge  | 435-901-1928 |
 | Jasmine Greenaway  | Cloud Developer Advocate | Technical mentor + Azure judge                | 646-220-3858 |
 | Chander Dhall      | MVP                      | Technical mentor + Azure judge + event judge  | 214-801-6705 |
 | Lance McCarthy     | MVP                      | Technical mentor                              | 617-595-3686 |
