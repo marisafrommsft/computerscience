@@ -1,8 +1,8 @@
-# Dubhacks Important Info
+# Dubhacks Details
 
 **Where:** Mary Gates Hall, University of Washington
 
-## Key times:
+## Key times
 
 **Saturday Oct. 20**
 - 1:00pm:         The fun begins! **Check in at Mary Gates Hall and come to Microsoft booth**
@@ -54,7 +54,7 @@ It's always a good idea to be around at the booth, but if you're listed as the "
 [https://doodle.com/poll/765qtyypuxnsvs2p](https://doodle.com/poll/765qtyypuxnsvs2p)
 
 
-## Booth talking points - all links in this section can be shared with students
+## Booth talking points (all links in this section can be shared with students)
 - [aka.ms/hackwithazure](https://aka.ms/hackwithazure) - tutorials and troubleshooting
 - Apply for a job at Microsoft (expect a LOT of interest in this)
    - Apply for internship or fulltime jobs at careers.microsoft.com
@@ -78,40 +78,40 @@ More info below...
 [Answer students questions on Slack](https://aka.ms/dubslack)
 
 ## Being a mentor
-**What resources do I point hackers to?**
+**What resources do I point hackers to?** (for MSFT internal use only)
 [aka.ms/hackwithazure](https://aka.ms/hackwithazure) is a good place to start (feel free to fork, pull request and contribute) but also, whatever **you** think is a good resource!
 
-**How do I talk to hackers?** 
+**How do I talk to hackers?** (for MSFT internal use only)
 Sometimes hackers may be a little shy about approaching company reps, so feel free to walk around the hacking area and introduce yourself, ask them what they’re working on, and offer your expertise!
 
 
-## Being a judge
+## Being a judge (for MSFT internal use only)
 We're going to be judging projects that used Azure for the Azure Champ Challenge. Some of you are already signed up to be judges, but even if you're not, please be around at 12:30pm on Sunday during Azure prize juding huddle in case we need extra hands 😊
 
 [Judging info](../judging)
 
 [Judging form link](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRz_m6h1IaXlHh-JzkM0298RUNlBJMlNYT1lDSFVWVEpFUkpPQTlYTk9JNy4u)
 
-## Links to Azure student developer programs
+## Links to Azure student developer programs (OK to share with students)
 [Azure for Students](https://aka.ms/a4s)
 
 [Microsoft Student Partner program](https://imagine.microsoft.com/en-us/msp)
 
 [Imagine Cup](https://imaginecup.microsoft.com/en-us/Events?id=0)
 
-## Other FAQ
+## Other FAQ (OK to share with students)
 What if someone asks me to sponsor their hackathon/event?
 Point them here: [aka.ms/event-sponsor-request](https://aka.ms/event-sponsor-request)
 
 [Briefing deck](../hack_briefing_deck.pdf) for any other questions/background info.
 
 
-## What's our hack prize?
-Each member of your team (up to 4 people) will win a
-[XBOX ONE X 1TB](https://www.xbox.com/en-us/xbox-one-x).
-The primary requirement is that your hack project include Azure in some way. Please be sure to read the [Terms & Conditions for Azure Prize](TBD).
+## What's our hack prize? (OK to share with students)
+Each member of your team (up to 5 people) will win a
+[XBOX ONE X 1TB](https://www.xbox.com/en-us/xbox-one-x), and entry into the [Imagine Cup](https://imaginecup.microsoft.com/category/register/12) semi-finals!
+The primary requirement is that your hack project include Azure in some way. Please be sure to read the Terms & Conditions for Azure Prize.
 
-## How do I win? What's the judging criteria?
+## What's the judging criteria for the Azure Champ Prize? (OK to share with students)
 
 | Criteria | Points |
 | -------- | ------ |
@@ -123,7 +123,7 @@ The primary requirement is that your hack project include Azure in some way. Ple
 
 [Link to judging form](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRz_m6h1IaXlHh-JzkM0298RUQ1dMRERSUlRBWVk0WEVZMFRMODVOQzNMUS4u)
 
-## Links to know about
+## Links to know about (OK to share with students)
 [Azure for Students](https://aka.ms/a4s)
  | $100 of Azure credit plus free services available without a credit card. Requires academic verification.
 
@@ -132,13 +132,14 @@ The primary requirement is that your hack project include Azure in some way. Ple
 
 [Microsoft Learn](https://docs.microsoft.com/learn/)
  | Full tutorials on the most common developer topics like building a website or spinning-up a virtual machine.
+ 
 [Microsoft Student Partners](https://imagine.microsoft.com/msp)
  | We are a community of university students around the world with an interest in technology. Coding is our shared common language. You might find yourself leading your own hackathon, mentoring computer science students, or unlocking the next great idea with your team – it’s all up to you. The program is all about gaining leadership experiences and getting access to resources and develop your technical and career skills. And we have a lot of fun too.
 
 [Imagine Cup](https://imaginecup.microsoft.com/)
  | If you really like today’s challenges, we encourage you to consider taking the next step with Imagine Cup. Imagine Cup is a global competition for the next generation of students. Team up, and use your creativity, passion, and knowledge of technology to create applications that shape how we live, work, and play. Every year, tens of thousands of students from across the globe compete for cash, travel, and prizes and for the honor of taking home the Imagine Cup!
 
-## I want to enter my hack project into Imagine Cup
+## How to enter a hack project in Imagine Cup (you can send this section to students or just have them visit imaginecup.com)
 1.	Review the 2019 [Imagine Cup Rules and Regulations](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fimaginemedia.blob.core.windows.net%2Fcontent%2FIC19%2520Official%2520Rules%2520and%2520Regulations-ecd22e3bba83.pdf&data=02%7C01%7Cjustgar%40microsoft.com%7C00eac4df02024270117808d62f9edec1%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636748756732433065&sdata=P0R7ppi8BTsKn6TmBbt1yXeu6cwheKJE6sWO0Tm1tzk%3D&reserved=0)
 2.	Up to three team members visit [ImagineCup.com](http://imaginecup.com) and Register for the 2019 Imagine Cup
 3.	Once registered, gather the required materials to *submit* to the *REGION* Online Semifinals. Create a team of up to 3 members: (i.)	The team can be created before submitting at the [Account page](https://na01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fimaginecup.microsoft.com%2Faccount%2FManage&data=02%7C01%7Cjustgar%40microsoft.com%7C00eac4df02024270117808d62f9edec1%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636748756732443070&sdata=xCz%2B9MgrAZPcvGIxBt2669nBocPu1VZ03KcsdXbDPY8%3D&reserved=0) or at the time of submission. (ii.) Submit the required materials prior to the *REGION* deadline *Submission Deadline* including Project Title & Description, Project Proposal (Word, PDF or PPT document detailing the project), Software Upload (Package your project so that our judges can evaluate your solution – Zip file or link to project), Software Instructions (Instructions on how to install and interact with the project),and Presentation Video (3min pitch and demo video as if presenting to live judges).
