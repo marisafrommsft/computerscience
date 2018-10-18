@@ -5,23 +5,27 @@
 ## Key times:
 
 **Saturday Oct. 20**
-- 1:00pm:         **Check in and come to booth**
-- 1:30pm:          Keynote speakers (Christina & Bernd) -> Kayne Hall
-- 2:00pm:          Opening Ceremony (Jenny + Christina & Bernd on stage)
-- 3:00pm:          Hacking is in full swing  **Be there to help hand out swag and mentor!**
+- 1:00pm:         The fun begins! **Check in at Mary Gates Hall and come to Microsoft booth**
+- 1:30pm:          Keynote speakers (Jenny, Bernd, Christina) -> Kayne Hall
+- 2:00pm:          Keynote & Opening Ceremony (Jenny, Bernd, Christina on stage)
+- 3:00pm:          Hacking is in full swing (Dustin, Eunice, Lawrence at booth) **Time to start mentoring!**
 - 5:30pm:          Dinner
+- 6:00pm:          The hacking goes on! (Dustin, Lawrence, Navid at booth) **Remind students about the 7:30pm workshop in room 389** 
 - 7:30-8:15pm      Workshop (Vadim)
-- 10pm onward:     Evening tends to slow down but please stay if you can!
+- 9:00pm:          Hack hack hack hack hack (Dustin, Lawrence, Navid at booth)
+Evening tends to slow down from about 10pm onward but please stay later if you can!
 
 **Sunday Oct. 21**
-- 12am onward:     Hacking continues
-- 7:00am:          Breakfast
-- 8:00am-1:00pm:   **Be around to help answer last minute questions!**
-- 1:00pm:          Hacking ends / projects submitted
-- 1:30pm:         **Group huddle on judging**
-- 2:00pm:          Expo (Judging). **Everyone be around to help judge!**
-- 4:00pm:          Finals juding (Vidya)  **Everyone else help tear down booth!**
-- 5:00pm:          Tavern 12 :)
+- 12am onward:     Hacking hasn't stopped, won't stop **When you arrive, check in with us at the booth**
+- 7:00am:          Breakfast (Bernd, Navid at booth) 
+- 8:00am:          **Be around to help answer last minute questions!**
+- 11:30am:         Lunch (Bernd, Dustin, Eunice at booth)
+- 1:00pm:          Hacking wraps up / projects submitted (Dustin, Lawrence, Navid at booth)
+- 1:30pm:          **Mandatory group huddle on judging at the Microsoft booth**
+- 2:00pm:          Expo (Judging). **Everyone is invited to help judge!**
+- 4:00pm:          Closing & Finals Judging (Vidya)  
+- 4:30pm           **Everyone else help tear down booth! Many hands make light work**
+- 5:00pm onward:   Tavern 12 :)
 
 ## Contact info
 **Marisa** - main POC #1: 
