@@ -10,6 +10,7 @@
 - 2:00pm:          Opening Ceremony (Jenny + Christina & Bernd on stage)
 - 3:00pm:          Hacking is in full swing  **Be there to help hand out swag and mentor!**
 - 5:30pm:          Dinner
+- 7:30-8:15pm      Workshop (Vadim)
 - 10pm onward:     Evening tends to slow down but please stay if you can!
 
 **Sunday Oct. 21**
@@ -19,7 +20,7 @@
 - 1:00pm:          Hacking ends / projects submitted
 - 1:30pm:         **Group huddle on judging**
 - 2:00pm:          Expo (Judging). **Everyone be around to help judge!**
-- 4:00pm:          Finals juding (Vadim) **Everyone else help tear down booth!**
+- 4:00pm:          Finals juding  **Everyone else help tear down booth!**
 - 5:00pm:          Tavern 12 :)
 
 ## Contact info
