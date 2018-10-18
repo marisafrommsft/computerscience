@@ -21,11 +21,11 @@ It's always a good idea to be around at the booth, but if you're listed as the "
 **Sunday Oct. 21**
 - 12am onward:     Hacking hasn't stopped, won't stop!  **When you arrive, check in with us at the booth**
 - 7:00am:          Breakfast (Bernd, Navid at booth) 
-- 8:00am:          **Be around to help answer last minute questions!**
+- 8:00am:          **Be around to help answer last minute questions please**
 - 11:30am:         Lunch (Bernd, Dustin, Eunice at booth)
 - 1:00pm:          Hacking wraps up / projects submitted (Dustin, Lawrence, Navid at booth)
 - 1:30pm:          **Mandatory group huddle on judging at the Microsoft booth**
-- 2:00pm:          Expo (Judging). **Everyone is invited to help judge!**
+- 2:00pm:          Expo (Judging). **Everyone is invited to help judge**
 - 4:00pm:          Closing & Finals Judging (Vidya)  
 - 4:30pm           **Everyone else help tear down booth! Many hands make light work**
 - 5:00pm onward:   [Tavern 12[(https://www.t12socialhouse.com/) :)
@@ -89,10 +89,10 @@ We're going to be judging all the projects during the expo, then only projects t
 
 [Judging info](../judging)
 
-[Judging form link] (https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR2nknXu917pMpNh7dIVBdlZUQ1RSSzNUS04yTFU1NEtNWVE2OVNFVjJTWi4u)
+[Judging form link](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR2nknXu917pMpNh7dIVBdlZUQ1RSSzNUS04yTFU1NEtNWVE2OVNFVjJTWi4u)
 
 **Once we have Azure Champ winners, we'll give them this information + Marisa will provide the super secret code:**
-Here are the steps that the Azure Champ winners need to take to participate in the Imagine Cup.
+- Here are the steps that the Azure Champ winners need to take to participate in the Imagine Cup.
 1.	Visit www.imaginecup.com and Register for the 2019 Imagine Cup
 2.	Once registered, gather the required materials to *submit* to the *REGION* Online Semifinals
 a.	Create a team of up to 3 members
