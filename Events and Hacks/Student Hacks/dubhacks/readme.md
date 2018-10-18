@@ -20,7 +20,7 @@
 - 1:00pm:          Hacking ends / projects submitted
 - 1:30pm:         **Group huddle on judging**
 - 2:00pm:          Expo (Judging). **Everyone be around to help judge!**
-- 4:00pm:          Finals juding  **Everyone else help tear down booth!**
+- 4:00pm:          Finals juding (Vidya)  **Everyone else help tear down booth!**
 - 5:00pm:          Tavern 12 :)
 
 ## Contact info
@@ -34,12 +34,16 @@
 
 | Name               | Title                         |  Role at the event                            | Contact info |
 | ------------------ | ----------------------------- | --------------------------------------------- | ------------ |
-| Marisa Messina     | PM student dev                | Event lead + mentor                           | 703-200-4441 |
-| Eunice Shin        | Director student dev          | Event co-lead                                 | 206-650-8428 |
-| Christina Warren   | 
-| Bernd 
-| Vadim 
-| 
+| Marisa Messina     | PM Student Developer          | Event lead + mentor                           | 703-200-4441 |
+| Eunice Shin        | Principal  Student Developer  | Event co-lead                                 | 206-650-8428 |
+| Christina Warren   | Cloud Developer Advocate      | Keynote speaker + mentor
+| Bernd Verst        | Cloud Developer Advocate      | Keynote speaker + mentor                      | 415-900-9875 |
+| Jenny Morgan       | Cloud Developer Advocate      | Opening speaker + mentor                      | 678-637-3881 |
+| Vadim Karpusenko   | Cloud Developer Advocate      | Workshop + mentor
+| Vidya Vrat         | MVP                           | Judge + mentor                                | 215-917-2091 |
+| Navid Azodi        | Tech Solutions Professional   | mentor
+| Lawrence Cushman   | Software Engineer             | mentor                                        | 206-566-8553 |
+| Jesse McCulloch    | PM Analog R&D                 | mixed reality mentor                          | 503-481-4471 |  
 
 ## Booth schedule
 It's always a good idea to be around at the booth, but if you're listed as the "booth owner" please make sure you're there to keep things running and field questions!
