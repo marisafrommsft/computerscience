@@ -8,18 +8,18 @@ It's always a good idea to be around at the booth, but if you're listed as the "
 
 
 **Saturday Oct. 20**
-- 1:00pm:         The fun begins! **Check in at Mary Gates Hall and come to Microsoft booth**
+- 1:00pm:         The fun begins!  **Check in at Mary Gates Hall and come to Microsoft booth** 
 - 1:30pm:          Keynote speakers (Jenny, Bernd, Christina) -> Kayne Hall
 - 2:00pm:          Keynote & Opening Ceremony (Jenny, Bernd, Christina on stage)
-- 3:00pm:          Hacking is in full swing (Dustin, Eunice, Lawrence at booth) **Time to start mentoring!**
+- 3:00pm:          Hacking is in full swing (Dustin, Eunice, Lawrence at booth) * **Time to start mentoring!** *
 - 5:30pm:          Dinner
-- 6:00pm:          Hacking goes on! (Dustin, Lawrence, Navid at booth) **Remind students about the 7:30pm workshop in room 389** 
+- 6:00pm:          Hacking goes on! (Dustin, Lawrence, Navid at booth). **Tell students about the 7:30pm workshop in room 389**
 - 7:30-8:15pm      Workshop (Vadim)
 - 9:00pm:          Hack hack hack hack hack (Dustin, Lawrence, Navid at booth)
-Evening tends to slow down from about 10pm onward but please stay later if you can!
+- Evening tends to slow down from about 10pm onward but please stay later if you can!
 
 **Sunday Oct. 21**
-- 12am onward:     Hacking hasn't stopped, won't stop **When you arrive, check in with us at the booth**
+- 12am onward:     Hacking hasn't stopped, won't stop!  **When you arrive, check in with us at the booth**
 - 7:00am:          Breakfast (Bernd, Navid at booth) 
 - 8:00am:          **Be around to help answer last minute questions!**
 - 11:30am:         Lunch (Bernd, Dustin, Eunice at booth)
