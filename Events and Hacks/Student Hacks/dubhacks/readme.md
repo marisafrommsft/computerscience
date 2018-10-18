@@ -5,6 +5,8 @@
 ## Minute by Minute Fun
 
 It's always a good idea to be around at the booth, but if you're listed as the "booth owner" please make sure you're there to keep things running and field questions!
+
+
 **Saturday Oct. 20**
 - 1:00pm:         The fun begins! **Check in at Mary Gates Hall and come to Microsoft booth**
 - 1:30pm:          Keynote speakers (Jenny, Bernd, Christina) -> Kayne Hall
