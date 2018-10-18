@@ -4,12 +4,11 @@
 
 ## Minute by Minute Fun
 
-It's always a good idea to be around at the booth, but if you're listed as the "booth owner" please make sure you're there to keep things running and field questions!
-
+You're always welcome to be at the booth, but if you're listed as the "booth owner" **please be there** to answer questions and represent Microsoft well. 
 
 **Saturday Oct. 20**
 - 1:00pm:         The fun begins!  **Check in at Mary Gates Hall and come to Microsoft booth** 
-- 1:30pm:          Keynote speakers (Jenny, Bernd, Christina) -> Kayne Hall
+- 1:30pm:          Keynote speakers (Jenny, Bernd, Christina) --> Kayne Hall
 - 2:00pm:          Keynote & Opening Ceremony (Jenny, Bernd, Christina on stage)
 - 3:00pm:          Hacking is in full swing (Dustin, Eunice, Lawrence at booth) * **Time to start mentoring!** *
 - 5:30pm:          Dinner
@@ -114,6 +113,8 @@ a.	All teams not chosen to advance will be given a second chance by being evalua
 [Microsoft Student Partner program](https://imagine.microsoft.com/en-us/msp)
 
 [Imagine Cup](https://imaginecup.microsoft.com/en-us/Events?id=0)
+
+
 ## Other FAQ (OK to share)
 What if someone asks me to sponsor their hackathon/event?
 Point them here: [aka.ms/event-sponsor-request](https://aka.ms/event-sponsor-request)
