@@ -59,11 +59,11 @@ You're always welcome to be at the booth, but if you're listed as the "booth own
    - Online applications only, we do not accept paper resumes.
    - Refer recruiting questions to University recruiting or Microsoft full time employees.
 - Free Azure through Azure for Students
-   - Activate here: [Azure for Students](https://aka.ms/a4s)
+   - **Use an incognito window** to activate here: [Azure for Students](https://aka.ms/a4s)
    - No credit card required
-   - $100 Azure credits, must prove you are a student by signing up with your student email address
+   - $100 in Azure credits and a lot of services free! Must prove you are a student by signing up with your student email address
    - If student email address is not recognized as a student, Marisa has Student verification codes student can use as proof of student status
-   - If verification code does not work, Marisa has Azure passes student can activate
+   - If verification code does not work, Marisa has Azure passes that student can activate
 - Enter to win Azure API prize
    - Use Azure in your hackathon and qualify for Azure API prize
    - Prize is 5 Xbox One Ss for the team & entry into Imagine Cup semi-finals
