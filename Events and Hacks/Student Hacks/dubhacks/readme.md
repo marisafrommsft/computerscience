@@ -92,19 +92,13 @@ We're going to be judging all the projects during the expo, then only projects t
 
 **Once we have Azure Champ winners, we'll give them this information + Marisa will provide the super secret code:**
 - Here are the steps that the Azure Champ winners need to take to participate in the Imagine Cup.
-1.	Visit www.imaginecup.com and Register for the 2019 Imagine Cup
-2.	Once registered, gather the required materials to *submit* to the *REGION* Online Semifinals
-a.	Create a team of up to 3 members
-i.	The team can be created before submitting at the Account page or at the time of submission
-b.	Submit the required materials prior to the *REGION* deadline *Submission Deadline*
-i.	Project Title & Description
-ii.	Project Proposal (Word, PDF or PPT document detailing the project) 
-iii.	Software Upload (Package your project so that our judges can evaluate your solution – Zip file or link to project)
-iv.	Software Instructions (Instructions on how to install and interact with the project)
-v.	Presentation Video (3min pitch and demo video as if presenting to live judges)
-vi.	Event Code: Please input *EVENTCODE* as the Event Code
-3.	The Azure Champ winning projects will be evaluated against other Azure Champ winning projects in for a spot at the Regional Final
-a.	All teams not chosen to advance will be given a second chance by being evaluated against all Imagine Cup teams in their region for the remaining spots at the Regional Final
+- Visit www.imaginecup.com and Register for the 2019 Imagine Cup
+- Once registered, gather the required materials to *submit* to the *REGION* Online Semifinals
+-    Create a team of up to 3 members. The team can be created before submitting at the Account page or at the time of submission
+-    Submit the required materials prior to the *REGION* deadline *Submission Deadline*
+-    For the software upload, package your project so that our judges can evaluate your solution in a Zip file or link to project.
+-    For the event code, please input the code you got from Marisa at the hackathon. Didn't catch her? mamessi@microsoft.com
+- The Azure Champ winning projects will be evaluated against other Azure Champ winning projects in for a spot at the Regional Finals. All teams not chosen to advance will be given a second chance by being evaluated against all Imagine Cup teams in their region for the remaining spots at the Regional Final
 
 
 ## Links to Azure student developer programs (OK to share)
@@ -151,4 +145,4 @@ The primary requirement is that your hack project include Azure in some way. Ple
  | We are a community of university students around the world with an interest in technology. Coding is our shared common language. You might find yourself leading your own hackathon, mentoring computer science students, or unlocking the next great idea with your team – it’s all up to you. The program is all about gaining leadership experiences and getting access to resources and develop your technical and career skills. And we have a lot of fun too.
 
 [Imagine Cup](https://imaginecup.microsoft.com/)
- | If you really like today’s challenges, we encourage you to consider taking the next step with Imagine Cup. Imagine Cup is a global competition for the next generation of students. Team up, and use your creativity, passion, and knowledge of technology to create applications that shape how we live, work, and play. Every year, tens of thousands of students from across the globe compete for cash, travel, and prizes and for the honor of taking home the Imagine Cup!
+ | If you liked this hackathon, we encourage you to consider taking the next step with Imagine Cup. Imagine Cup is a global competition for the next generation of students. Team up, and use your creativity, passion, and knowledge of technology to create applications that shape how we live, work, and play. Every year, tens of thousands of students from across the globe compete for cash, travel, and prizes and for the honor of taking home the Imagine Cup!
