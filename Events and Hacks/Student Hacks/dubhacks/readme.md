@@ -54,8 +54,8 @@ It's always a good idea to be around at the booth, but if you're listed as the "
 [https://doodle.com/poll/765qtyypuxnsvs2p](https://doodle.com/poll/765qtyypuxnsvs2p)
 
 
-## Booth talking points
-- [aka.ms/hackwithazure](https://aka.ms/hackwithazure) - tutorials and troubleshooting!
+## Booth talking points - all links in this section can be shared with students
+- [aka.ms/hackwithazure](https://aka.ms/hackwithazure) - tutorials and troubleshooting
 - Apply for a job at Microsoft (expect a LOT of interest in this)
    - Apply for internship or fulltime jobs at careers.microsoft.com
    - Online applications only, we do not accept paper resumes.
@@ -64,19 +64,18 @@ It's always a good idea to be around at the booth, but if you're listed as the "
    - Activate here: [Azure for Students](https://aka.ms/a4s)
    - No credit card required
    - $100 Azure credits, must prove you are a student by signing up with your student email address
-   - If student email address is not recognized as a student, Shana has Student verification codes student can use as proof of student status
-   - If verification code does not work, Shana has Azure passes student can activate
+   - If student email address is not recognized as a student, Marisa has Student verification codes student can use as proof of student status
+   - If verification code does not work, Marisa has Azure passes student can activate
 - Enter to win Azure API prize
    - Use Azure in your hackathon and qualify for Azure API prize
-   - Prize is 4 Xbox One S 1TB
-   - Find tutorials to learn Azure at docs.microsoft.com or at our 5pm workshop
-
+   - Prize is 5 Xbox One Ss for the team & entry into Imagine Cup semi-finals
+   - Find tutorials to learn Azure at docs.microsoft.com or at our 7:30pm Saturday workshop in room 389
      
-More info below.
+More info below...
 
-
-## Social media guidelines
+## Social media info (for MSFT internal use only)
 [Read me and learn how to Tweet/Facebook!](../socialguidance.pdf)
+[Answer students questions on Slack](https://aka.ms/dubslack)
 
 ## Being a mentor
 **What resources do I point hackers to?**
