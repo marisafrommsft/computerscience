@@ -43,18 +43,8 @@
 
 ## Booth schedule
 It's always a good idea to be around at the booth, but if you're listed as the "booth owner" please make sure you're there to keep things running and field questions!
+[https://doodle.com/poll/765qtyypuxnsvs2p](https://doodle.com/poll/765qtyypuxnsvs2p)
 
-| Time               | Booth owner                                                                 | 
-| ------------------ | --------------------------------------------------------------------------- |
-| **Saturday**       |                                                                             |
-| 10am - 1pm         | Marisa and Eric. Anyone else who wants to help with booth setup is welcome! |
-| 3pm - 5:30pm       | **Everyone please!** This is our busiest time for questions.                |
-| 5:30pm - 7pm       | Doug, Shawn, Shana, Paul                                                    |
-| 7pm - overnight    | Marisa probably + others optional                                           |
-| **Sunday**         |                                                                             |
-| 8am - 12pm         | Chander, Doug. Be around for last minute questions!                         |
-| 10:30am            | All hands on deck for judging                         |
-| 3pm and on         | Help Shana tear down booth & ship out booth materials |  
 
 ## Booth talking points
 - [aka.ms/hackwithazure](https://aka.ms/hackwithazure) - tutorials and troubleshooting!
