@@ -49,7 +49,7 @@ You're always welcome to be at the booth, but if you're listed as the "booth own
 | Vidya Vrat         | MVP                           | Judge + mentor                                | 215-nineSeventeen-2091 |
 | Navid Azodi        | Tech Solutions Professional   | mentor
 | Lawrence Cushman   | Software Engineer             | mentor                                      
-| Jesse McCulloch    | PM Analog R&D                 | mixed reality mentor                          | 503-four eighty one   4471 |  
+| Jesse McCulloch    | PM Analog R&D                 | mixed reality mentor                          | 503four eighty one4471 |  
 
 
 ## Booth talking points (OK to share)
