@@ -38,10 +38,10 @@ You're always welcome to be at the booth, but if you're listed as the "booth own
 - email: eunices@microsoft.com
 - phone: 206-six fifty-8428
 
-| Name               | Title                         |  Role at the event                            | Contact info |
-| ------------------ | ----------------------------- | --------------------------------------------- | ------------ |
-| Marisa Messina     | PM Student Developer          | Event lead + mentor                           see email from Marisa
-| Eunice Shin        | Principal  Student Developer  | Event co-lead                                 for everyone's contact info
+| Name               | Title                         |  Role at the event                            
+| ------------------ | ----------------------------- | --------------------------------------------- |
+| Marisa Messina     | PM Student Developer          | Event lead + mentor                        
+| Eunice Shin        | Principal  Student Developer  | Event co-lead   
 | Christina Warren   | Cloud Developer Advocate      | Keynote speaker + mentor
 | Bernd Verst        | Cloud Developer Advocate      | Keynote speaker + mentor + Slack lead        
 | Jenny Morgan       | Cloud Developer Advocate      | Opening speaker + mentor                  
