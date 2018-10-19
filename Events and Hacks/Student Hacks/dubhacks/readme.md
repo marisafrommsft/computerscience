@@ -43,7 +43,7 @@ You're always welcome to be at the booth, but if you're listed as the "booth own
 | Marisa Messina     | PM Student Developer          | Event lead + mentor                           | 703- two hundred   -4441 |
 | Eunice Shin        | Principal  Student Developer  | Event co-lead                                 | 206-  six  fifty-   8428 |
 | Christina Warren   | Cloud Developer Advocate      | Keynote speaker + mentor
-| Bernd Verst        | Cloud Developer Advocate      | Keynote speaker + mentor + Slack lead         | 415-   nine hundred  -9875 |
+| Bernd Verst        | Cloud Developer Advocate      | Keynote speaker + mentor + Slack lead         | 415-   nine hundred-9875 |
 | Jenny Morgan       | Cloud Developer Advocate      | Opening speaker + mentor                      | 678SixThirtySeven3881 |
 | Vadim Karpusenko   | Cloud Developer Advocate      | Workshop + mentor
 | Vidya Vrat         | MVP                           | Judge + mentor                                | 215-9seventeen-2091 |
