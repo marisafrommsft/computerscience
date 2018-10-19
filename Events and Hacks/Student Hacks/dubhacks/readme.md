@@ -27,7 +27,7 @@ You're always welcome to be at the booth, but if you're listed as the "booth own
 - 2:00pm:          Expo (Judging). **Everyone is invited to help judge**
 - 4:00pm:          Closing & Finals Judging (Vidya)  
 - 4:30pm           **Everyone else help tear down booth! Many hands make light work**
-- 5:00pm onward:   [Tavern 12[(https://www.t12socialhouse.com/) :)
+- 5:00pm onward:   [Tavern 12](https://www.t12socialhouse.com/) :)
 
 ## Contact info
 **Marisa** - main POC #1: 
@@ -73,7 +73,7 @@ More info below...
 
 ## Social media info (MSFT internal only)
 - [Read me and learn how to Tweet/Facebook!](../socialguidance.pdf) 
-- [Answer students questions on Slack](https://aka.ms/dubslack) - Bernd is leading the charge and anyone is welcome to pitch in!
+- [Answer students questions on Slack at aka.ms/dubslack](https://aka.ms/dubslack) - Bernd is leading; anyone is welcome to pitch in!
 
 ## Being a mentor
 **What resources do I point hackers to?** (MSFT internal only)
