@@ -43,7 +43,7 @@ You're always welcome to be at the booth, but if you're listed as the "booth own
 | Marisa Messina     | PM Student Developer          | Event lead + mentor                           | 703-200-4441 |
 | Eunice Shin        | Principal  Student Developer  | Event co-lead                                 | 206-650-8428 |
 | Christina Warren   | Cloud Developer Advocate      | Keynote speaker + mentor
-| Bernd Verst        | Cloud Developer Advocate      | Keynote speaker + mentor                      | 415-900-9875 |
+| Bernd Verst        | Cloud Developer Advocate      | Keynote speaker + mentor + Slack lead         | 415-900-9875 |
 | Jenny Morgan       | Cloud Developer Advocate      | Opening speaker + mentor                      | 678-637-3881 |
 | Vadim Karpusenko   | Cloud Developer Advocate      | Workshop + mentor
 | Vidya Vrat         | MVP                           | Judge + mentor                                | 215-917-2091 |
@@ -73,7 +73,7 @@ More info below...
 
 ## Social media info (MSFT internal only)
 - [Read me and learn how to Tweet/Facebook!](../socialguidance.pdf) 
-- [Answer students questions on Slack](https://aka.ms/dubslack)
+- [Answer students questions on Slack](https://aka.ms/dubslack) - Bernd is leading the charge and anyone is welcome to pitch in!
 
 ## Being a mentor
 **What resources do I point hackers to?** (MSFT internal only)
