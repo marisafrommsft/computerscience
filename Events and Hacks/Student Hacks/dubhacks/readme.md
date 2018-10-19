@@ -73,7 +73,7 @@ More info below...
 
 ## Social media info (MSFT internal only)
 - [Read me and learn how to Tweet/Facebook!](../socialguidance.pdf) 
-- [Answer students questions on Slack at aka.ms/dubslack](https://aka.ms/dubslack) - Bernd is leading; anyone is welcome to pitch in!
+- [Answer students' questions on Slack at aka.ms/dubslack](https://aka.ms/dubslack) - Bernd is leading; anyone is welcome to pitch in!
 
 ## Being a mentor
 **What resources do I point hackers to?** (MSFT internal only)
