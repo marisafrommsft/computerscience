@@ -46,7 +46,7 @@ You're always welcome to be at the booth, but if you're listed as the "booth own
 | Bernd Verst        | Cloud Developer Advocate      | Keynote speaker + mentor + Slack lead         | 415-   nine hundred  -9875 |
 | Jenny Morgan       | Cloud Developer Advocate      | Opening speaker + mentor                      | 678SixThirtySeven3881 |
 | Vadim Karpusenko   | Cloud Developer Advocate      | Workshop + mentor
-| Vidya Vrat         | MVP                           | Judge + mentor                                | 215-nineSeventeen-2091 |
+| Vidya Vrat         | MVP                           | Judge + mentor                                | 215-9seventeen-2091 |
 | Navid Azodi        | Tech Solutions Professional   | mentor
 | Lawrence Cushman   | Software Engineer             | mentor                                      
 | Jesse McCulloch    | PM Analog R&D                 | mixed reality mentor                          | 503four eighty one4471 |  
