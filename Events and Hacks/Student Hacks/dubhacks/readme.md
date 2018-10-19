@@ -36,20 +36,20 @@ You're always welcome to be at the booth, but if you're listed as the "booth own
 
 **Eunice** - main POC #2:
 - email: eunices@microsoft.com
-- phone: 206-six hundred fifty-8428
+- phone: 206-six fifty-8428
 
 | Name               | Title                         |  Role at the event                            | Contact info |
 | ------------------ | ----------------------------- | --------------------------------------------- | ------------ |
 | Marisa Messina     | PM Student Developer          | Event lead + mentor                           | 703- two hundred         -4441 |
-| Eunice Shin        | Principal  Student Developer  | Event co-lead                                 | 206-  six hudred fifty-   8428 |
+| Eunice Shin        | Principal  Student Developer  | Event co-lead                                 | 206-  six  fifty-   8428 |
 | Christina Warren   | Cloud Developer Advocate      | Keynote speaker + mentor
 | Bernd Verst        | Cloud Developer Advocate      | Keynote speaker + mentor + Slack lead         | 415-     nine hundred    -9875 |
-| Jenny Morgan       | Cloud Developer Advocate      | Opening speaker + mentor                      | 678sixHundred thirty seven3881 |
+| Jenny Morgan       | Cloud Developer Advocate      | Opening speaker + mentor                      | 678six thirty seven3881 |
 | Vadim Karpusenko   | Cloud Developer Advocate      | Workshop + mentor
-| Vidya Vrat         | MVP                           | Judge + mentor                                | 215-nineHundred seventeen-2091 |
+| Vidya Vrat         | MVP                           | Judge + mentor                                | 215-nine seventeen-2091 |
 | Navid Azodi        | Tech Solutions Professional   | mentor
 | Lawrence Cushman   | Software Engineer             | mentor                                      
-| Jesse McCulloch    | PM Analog R&D                 | mixed reality mentor                          | 503-fourHundred eighty one4471 |  
+| Jesse McCulloch    | PM Analog R&D                 | mixed reality mentor                          | 503-four eighty one      4471 |  
 
 
 ## Booth talking points (OK to share)
