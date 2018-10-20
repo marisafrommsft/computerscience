@@ -90,6 +90,8 @@ We're going to be judging all the projects during the expo, then only projects t
 
 [Judging form link](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR2nknXu917pMpNh7dIVBdlZUQ1RSSzNUS04yTFU1NEtNWVE2OVNFVjJTWi4u)
 
+Judging form submissions: aka.ms/judge1021
+
 **Once we have Azure Champ winners, we'll give them this information + Marisa will provide the super secret code:**
 - Here are the steps that the Azure Champ winners need to take to participate in the Imagine Cup.
 - Visit www.imaginecup.com and Register for the 2019 Imagine Cup
