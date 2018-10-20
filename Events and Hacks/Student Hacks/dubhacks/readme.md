@@ -47,8 +47,7 @@ You're always welcome to be at the booth, but if you're listed as the "booth own
 | Jenny Morgan       | Cloud Developer Advocate      | Opening speaker + mentor                  
 | Vadim Karpusenko   | Cloud Developer Advocate      | Workshop + mentor
 | Vidya Vrat         | MVP                           | Judge + mentor                                
-| Navid Azodi        | Tech Solutions Professional   | mentor
-| Lawrence Cushman   | Software Engineer             | mentor                                      
+| Navid Azodi        | Tech Solutions Professional   | mentor| Lawrence Cushman   | Software Engineer             | mentor                                      
 | Jesse McCulloch    | PM Analog R&D                 | mixed reality mentor                           
 
 
@@ -88,9 +87,7 @@ We're going to be judging all the projects during the expo, then only projects t
 
 [Judging info](../judging)
 
-[Judging form link](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR2nknXu917pMpNh7dIVBdlZUQ1RSSzNUS04yTFU1NEtNWVE2OVNFVjJTWi4u)
-
-Judging form submissions: aka.ms/judge1021
+[Judging form link: aka.ms/judge1021](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR2nknXu917pMpNh7dIVBdlZUQ1RSSzNUS04yTFU1NEtNWVE2OVNFVjJTWi4u) 
 
 **Once we have Azure Champ winners, we'll give them this information + Marisa will provide the super secret code:**
 - Here are the steps that the Azure Champ winners need to take to participate in the Imagine Cup.
