@@ -19,7 +19,7 @@ You're always welcome to be at the booth, but if you're listed as the "booth own
 
 **Sunday Oct. 21**
 - 12am onward:     Hacking hasn't stopped, won't stop!  **When you arrive, check in with us at the booth**
-- 7:00am:          Breakfast (Bernd, Navid at booth) 
+- 7:00am:          Breakfast (Bernd, Christina, Navid at booth) 
 - 8:00am:          **Be around to help answer last minute questions please**
 - 11:30am:         Lunch (Bernd, Dustin, Eunice at booth)
 - 1:00pm:          Hacking wraps up / projects submitted (Dustin, Lawrence, Navid at booth)
