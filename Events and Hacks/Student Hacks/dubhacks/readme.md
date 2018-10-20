@@ -68,6 +68,7 @@ You're always welcome to be at the booth, but if you're listed as the "booth own
    - Prize is 5 Xbox One Ss for the team & entry into Imagine Cup semi-finals
    - Find tutorials to learn Azure at docs.microsoft.com or at our 7:30pm Saturday workshop in room 389
      
+[Booth schedule](https://doodle.com/poll/765qtyypuxnsvs2p)
 More info below...
 
 ## Social media info (MSFT internal only)
