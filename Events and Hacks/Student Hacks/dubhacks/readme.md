@@ -23,7 +23,8 @@ You're always welcome to be at the booth, but if you're listed as the "booth own
 - 8:00am:          **Be around to help answer last minute questions please**
 - 11:30am:         Lunch (Bernd, Dustin, Eunice at booth)
 - 1:00pm:          Hacking wraps up / projects submitted (Dustin, Lawrence, Navid at booth)
-- 1:30pm:          **Mandatory group huddle on judging at the Microsoft booth**
+- 1:15pm:          **Mandatory group huddle on judging at the Microsoft booth**
+- 1:30pm:          **Expo judges meeting led by organizers on 2nd floor**
 - 2:00pm:          Expo (Judging). **Everyone is invited to help judge**
 - 4:00pm:          Closing & Finals Judging (Vidya)  
 - 4:30pm           **Everyone else help tear down booth! Many hands make light work**
